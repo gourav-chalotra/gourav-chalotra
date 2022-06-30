@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
 <h1 align="center">Hi 👋, I'm Gourav Chalotra</h1>
-<img along = "right" alt = "coding" width = "900" src = "https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img along = "right" alt = "coding" width = "400" src = "https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav-chalotra&label=Profile%20views&color=0e75b6&style=flat" alt="gourav-chalotra" /> </p>
 
 - 🌱 I’m currently learning **C++**
