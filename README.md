@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
-<img along = "right" alt = "coding" width = "800" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fthe-matrix-matrix-coding-title-code-gif-17795276&psig=AOvVaw3dYwWFtHLy7a-8nr7gi5eK&ust=1673479138156000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjfpd-RvvwCFQAAAAAdAAAAABBe">
+<img along = "right" alt = "coding" width = "800" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx%2Ftile&psig=AOvVaw3dYwWFtHLy7a-8nr7gi5eK&ust=1673479138156000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjfpd-RvvwCFQAAAAAdAAAAABBu">
 
 <h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
 <h3 align="center">Developer from India</h3>
