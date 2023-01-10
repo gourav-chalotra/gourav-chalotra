@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
-![hight_Quality](https://user-images.githubusercontent.com/90745717/211685943-c46e4376-62fc-4e40-a9c8-e6a476460ebf.gif)
+![code_gif](https://user-images.githubusercontent.com/90745717/211686861-cab2a684-49b5-4684-8836-c56eff1e173c.gif)
 
 
 
