@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
-![image](https://user-images.githubusercontent.com/90745717/211684107-953c0e5d-adde-449e-bcbe-479bb0c5288a.png)
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gif-gifs&psig=AOvVaw2lr46GW-Iy6W4-hoAnQinb&ust=1673480412004000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDjhL6WvvwCFQAAAAAdAAAAABAE" alt="Girl in a jacket" width="500" height="600">
 
 <h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
 <h3 align="center">Developer from India</h3>
