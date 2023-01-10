@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
-![832883214dancing-cartoon-gif](https://user-images.githubusercontent.com/90745717/211683460-c126bdc4-b40d-45a6-90af-6acdf146abc6.gif)
+![image](https://user-images.githubusercontent.com/90745717/211684107-953c0e5d-adde-449e-bcbe-479bb0c5288a.png)
 
 
 <h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
