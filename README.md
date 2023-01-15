@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [!MasterHead](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)]
 <img src="https://user-images.githubusercontent.com/90745717/211686861-cab2a684-49b5-4684-8836-c56eff1e173c.gif" width="1000" height="600">
+<a href=#><img src="contributions.svg"></a>
 <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 
 <h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
